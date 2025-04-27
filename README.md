@@ -91,6 +91,6 @@ Immediately stops the program.
 ---
 
 ## Author
-- Developer: **Germans Veidemans**
+- Developer: **German Veideman**
 
 ---
